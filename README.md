@@ -1,16 +1,23 @@
-السلام عليكم ازيكوا يا ابطال عاملين ايه يارب تكونوا بخير 💜
-إن شاء الله ده اول اسيمنت معانا 🤩  ( صورة الـ design في اخر link )
-✅ عايزين نعمل نفس التصميم دا بالظبط باستخدام الـ tags اللى اخدناها فى المحاضره فقط ( يعني HTML مفيش اى css ).
-✅ هنختار موضوع نعمل عليه نفس التصميم مش لازم الكلام يكون ليه معنى ممكن نستخدم lorem.
-❓طب و الألوان ؟ 🤔 
-✅ هنختار الوان مختلفه بس نراعي ان هي تكون متناسقه مع الصور ومع بعضها , فيه مواقع كتير تقدر تساعدك في كدا منها :
+Peace be upon you, heroes!
+How are you all doing? I hope everything’s good 💜
+
+In shaa’ Allah this is our first assignment 🤩 (you’ll find the design image at the last link).
+
+✅ We need to recreate this exact design using only the tags we learned in the lecture (meaning pure HTML, no CSS).
+✅ Choose any topic to apply the design on—it doesn’t have to make sense; you can even use Lorem Ipsum.
+
+❓What about colors? 🤔
+✅ We’ll pick different colors, but make sure they are harmonious with the images and with each other. There are many websites to help you with that, like:
 🔗 https://colorhunt.co/
-برضه مش هسيبك كدا هقولك برضه شوية hints تساعدك ☺ :
-1️⃣ مهم جدا تستخدم الـ alt attribute مع الـ  img للاسباب اللى اتشرحت في السيشن.
-2️⃣ اتفقنا انه حتى الآن مينفعش تستخدم width, height مع بعض و دا لان بيكون فيه نسبة بين الطول و العرض بنسميها aspect ratio .. طب ايه الحل عشان اعمل نفس الـ design ؟ تجيب صور النسبة بين الطول و العرض واحدة .. و الموقع دا هيساعدك في كدا : 
- 🔗 Link : https://bit.ly/3LufQkm
 
-و دا لينك الـ Design اللى هنعمل زيه  :
-🔗  https://bit.ly/3S0xLmk
+And of course, I won’t leave you without some hints ☺:
 
-الديدلاين : يوم التلات الساعة 10 م
+1️⃣ It’s very important to use the alt attribute with your <img> tags for the reasons explained in the session.
+2️⃣ Remember, for now, we agreed that you can’t use width and height together because there’s always a ratio between width and height called the aspect ratio.
+So, what’s the solution to keep the design consistent? Use images that share the same aspect ratio. This website will help you:
+🔗 https://bit.ly/3LufQkm
+
+Here’s the design we’ll be recreating:
+🔗 https://bit.ly/3S0xLmk
+
+Deadline: Tuesday at 10 PM
